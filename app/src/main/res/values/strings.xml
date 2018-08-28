@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Álbum Copa Mundial</string>
+    <string name="checked">La Tengo!</string>
+    <string name="nochecked">No la Tengo!</string>
+    <string name="checked_tab">Las Tengo!</string>
+    <string name="list_tab">Lista</string>
+    <string name="nochecked_tab">No las Tengo!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

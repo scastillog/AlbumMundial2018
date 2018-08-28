@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/checked_tab"
+        title="@string/checked_tab"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/tab_check"
+        />
+
+    <tab
+        id="@+id/list_tab"
+        title="@string/list_tab"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/tab_list"
+        />
+
+    <tab
+        id="@+id/nochecked_tab"
+        title="@string/nochecked_tab"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/tab_cancel"
+        />
+</tabs>

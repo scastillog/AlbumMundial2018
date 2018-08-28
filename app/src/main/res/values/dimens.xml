@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_text">26sp</dimen>
+    <dimen name="cardview_text2">20sp</dimen>
+    <dimen name="spacing">5dp</dimen>
+    <dimen name="spacing_little">6dp</dimen>
+    <dimen name="bottombar_height">45dp</dimen>
+</resources>
